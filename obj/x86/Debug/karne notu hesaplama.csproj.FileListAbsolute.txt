@@ -1,0 +1,7 @@
+c:\users\acer-v3\documents\visual studio 2010\Projects\karne notu hesaplama\karne notu hesaplama\obj\x86\Debug\karne_notu_hesaplama.Form1.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\karne notu hesaplama\karne notu hesaplama\obj\x86\Debug\karne_notu_hesaplama.Properties.Resources.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\karne notu hesaplama\karne notu hesaplama\obj\x86\Debug\karne notu hesaplama.csproj.GenerateResource.Cache
+c:\users\acer-v3\documents\visual studio 2010\Projects\karne notu hesaplama\karne notu hesaplama\bin\Debug\karne notu hesaplama.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\karne notu hesaplama\karne notu hesaplama\bin\Debug\karne notu hesaplama.pdb
+c:\users\acer-v3\documents\visual studio 2010\Projects\karne notu hesaplama\karne notu hesaplama\obj\x86\Debug\karne notu hesaplama.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\karne notu hesaplama\karne notu hesaplama\obj\x86\Debug\karne notu hesaplama.pdb
